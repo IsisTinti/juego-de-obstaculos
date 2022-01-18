@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 6a8878a6fddd0994e9ffc8ea1c013fc1
+  - enabled: 1
+    path: Assets/Scenes/parcial1.unity
+    guid: cc18e46299ed7f5499f20a46543f1fa9
+  - enabled: 1
+    path: Assets/derrota/pantallaDerrota.unity
+    guid: 3f0d35639e6121d46ae306fb877fdbf3
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: ada089ed49268144ab4d9c7faf488ac0
+  - enabled: 1
+    path: Assets/victoria/victoria.unity
+    guid: fb2de29822513a24fa2f062d1ba212b8
+  m_configObjects: {}
